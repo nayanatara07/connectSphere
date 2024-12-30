@@ -36,7 +36,7 @@ const Projects = () => {
     <div className="bg-gradient-to-r from-gray-100 via-white to-gray-100 min-h-screen py-10">
       <div className="container mx-auto px-4">
         <h1 className="text-4xl font-bold text-center text-gray-800 mb-12">
-          365dayscoding Projects
+        connectSphere Projects
         </h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {projects.map((project, index) => (

@@ -5,7 +5,7 @@ const Footer = () => {
 		<footer className="bg-gradient-to-r from-gray-800 via-gray-900 to-black text-white py-6 shadow-inner">
 			<div className="container mx-auto text-center">
 				<p className="text-lg tracking-wider">
-					&copy; {new Date().getFullYear()} 365dayscoding | All rights reserved 
+					&copy; {new Date().getFullYear()} connectSphere | All rights reserved 
 				</p>
 				<div className="mt-4">
 					<ul className="flex justify-center space-x-6">
@@ -37,7 +37,7 @@ const Footer = () => {
 						</li>
 						<li>
 							<a
-								href="https://www.instagram.com/365codingdays?igsh=MTg0am5iNHBhMjcxcA=="
+								href="https://www.instagram.com/bharatbhusal"
 								className="hover:text-teal-400 transition duration-300 ease-in-out"
 								target="_blank"
 								rel="noopener noreferrer"

@@ -1,7 +1,7 @@
 ### 1. Raise an Issue
 
 1. **Go to the GitHub Repository:**
-   Open the repository link: [Community-Website GitHub Repo](https://github.com/happyrao78/Community-Website.git).
+   Open the repository link: [connectSphere GitHub Repo](https://github.com/nayanatara07/connectSphere.git).
 
 2. **Navigate to the Issues Tab:**
    Click on the "Issues" tab near the top of the repository page.
@@ -15,7 +15,7 @@
    - **Description:** Include detailed information about the issue or feature request. Be as specific as possible about what needs to be changed or added.
 
 5. **Submit the Issue:**
-   Click the "Submit new issue" button to create the issue. You will need to wait for it to be assigned to you by the maintainers (Happy Yadav or Veedansh ).
+   Click the "Submit new issue" button to create the issue. You will need to wait for it to be assigned to you by the maintainer (Nayanatara ).
 
 ### 2. Clone the Repository
 
@@ -29,14 +29,14 @@
    Enter the following command in the terminal:
 
    ```bash
-   git clone https://github.com/happyrao78/Community-Website.git
+   git clone https://github.com/nayanatara07/connectSphere.git
    ```
 
    This command copies the repository to your local machine.
 
 4. **Navigate to the Repository Directory:**
    ```bash
-   cd 365Days-Website
+   cd connectSphere
    ```
 
 ### 3. Add a Remote Repository
@@ -44,7 +44,7 @@
 1. **Add the Remote Repository:**
    You may want to add a remote repository (like the main repository or another remote). Use the following command to add it:
    ```bash
-   git remote add origin https://github.com/happyrao78/Community-Website.git
+   git remote add origin https://github.com/nayanatara07/connectSphere.git
    ```
 
 ### 4. Make and Test Changes

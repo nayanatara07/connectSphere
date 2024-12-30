@@ -50,7 +50,7 @@ const Blog = () => {
       <div className="container mx-auto px-4 flex">
         <div className="w-full lg:w-3/4">
           <h1 className="text-4xl font-bold text-center text-gray-800 mb-8">
-            365dayscoding Blogs
+            connectSphere Blogs
           </h1>
 
           <section className="mb-12">

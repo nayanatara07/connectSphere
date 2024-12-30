@@ -5,7 +5,7 @@ const Home = () => {
     <div className="bg-gray-100 min-h-screen flex flex-col items-center justify-center">
       <div className="text-center">
         <h1 className="text-5xl font-bold text-gray-800 mb-4">
-          Welcome to 365dayscoding
+          Welcome to connectSphere
         </h1>
         <p className="text-xl text-gray-600 mb-8">
           Your ultimate destination for coding

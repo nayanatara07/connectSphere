@@ -37,7 +37,7 @@ const About = () => {
               Our Mission
             </h2>
             <p className="text-gray-700">
-              At 365dayscoding, our mission is to empower developers of all
+              At connectSphere, our mission is to empower developers of all
               levels by providing comprehensive resources, community support,
               and real-world projects to enhance their coding skills. We believe
               in continuous learning and the power of collaboration to drive
@@ -50,7 +50,7 @@ const About = () => {
               Our Story
             </h2>
             <p className="text-gray-700">
-              365dayscoding started as a small group of 
+              connectSphere started as a small group of 
 			        passionate developers who wanted to create a platform where
               learners and professionals alike could share their knowledge and
               grow together. Over the years, we’ve grown into a thriving

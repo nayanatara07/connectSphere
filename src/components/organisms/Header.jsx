@@ -13,7 +13,7 @@ const Header = () => {
 		<header className="bg-gradient-to-r from-gray-800 via-gray-900 to-black text-white p-4 shadow-lg">
 			<nav className="container mx-auto flex justify-between items-center">
 				<h1 className="text-2xl md:text-3xl font-bold tracking-wider">
-					<Link to="/" className="hover:text-teal-400 transition duration-300 ease-in-out">365dayscoding</Link>
+					<Link to="/" className="hover:text-teal-400 transition duration-300 ease-in-out">connectSphere</Link>
 				</h1>
 
 				<div className="md:hidden">
